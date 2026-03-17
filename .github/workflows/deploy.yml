@@ -24,6 +24,7 @@ jobs:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           AWS_DEFAULT_REGION: eu-central-1
+          AWS_ENDPOINT_URL: https://s3.investigativedata.org
         run: |
           aws s3 cp dist/topics.json s3://cdn.investigativedata.org/search.openaleph.org/topics.json \
             --content-type application/json \
