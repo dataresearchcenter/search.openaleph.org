@@ -21,12 +21,7 @@ topics:
         source_url: https://en.wikipedia.org/wiki/File:Epstein_Files_Phase_1,_Part_C_%E2%80%93_Contact_Book_Redacted.pdf
     countries:
       - us
-    search_terms:
-      - Ghislaine Maxwell
-      - Leslie Wexner
-      - Leon Black
-      - Jes Staley
-      - Jean-Luc Brunel
+    search_terms: []
     collections: []
 
   - title: Iran War
@@ -61,6 +56,40 @@ topics:
       - "291"
       - "995"
       - "764"
+
+  - title: Landtagswahl in Rheinland-Pfalz
+    description: >-
+      The 2026 Rhineland-Palatinate state election took place on 22 March 2026.
+      The CDU under Gordon Schnieder became the strongest party with 31.0%,
+      ending 35 years of SPD-led governments. A CDU-SPD grand coalition is being
+      formed. Research the historic parliamentary activities of the candidates in
+      the Parlamentsspiegel, Bundestag DIP and OPAL Rheinland-Pfalz datasets, as
+      well as party donations (Parteispenden).
+    image:
+      url: https://upload.wikimedia.org/wikipedia/commons/a/a0/Gordon_Schnieder-2613.jpg
+      alt:
+        - text: "Gordon Schnieder, CDU"
+          language: de
+      attribution:
+        license: CC BY-SA 3.0 DE
+        license_url: https://creativecommons.org/licenses/by-sa/3.0/de/deed.en
+        author: Harald Krichel
+        source: Wikimedia Commons
+        source_url: https://commons.wikimedia.org/wiki/File:Gordon_Schnieder-2613.jpg
+    countries:
+      - de
+    search_terms:
+      - Gordon Schnieder
+      - Alexander Schweitzer
+      - Jan Bollinger
+      - Katrin Eder
+    collections:
+      - "460"
+      - "570"
+      - "335"
+      - "306"
+      - "471"
+      - "434"
 
   - title: Landtagswahl in Baden-Württemberg
     description: >-
