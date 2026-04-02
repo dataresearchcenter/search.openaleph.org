@@ -1,14 +1,14 @@
 topics:
   - title: The Epstein Files
     description: >-
-    The Epstein Files are a collection of millions of documents, images, videos, 
-    and emails published by the U.S. Department of Justice, detailing the activities 
-    of American financier and convicted sex offender Jeffrey Epstein. While the DOJ makes these materials available on its website, 
-    they are significantly easier to search and navigate in OpenAleph. 
-    We hold the **full collection of approximately 1.4 million documents**; 
-    however, we have chosen not to make this dataset publicly available due 
-    to its sensitive nature and the need to protect victims. Please [get in touch](mailto:hi@dataresearchcenter.org) 
-    if you are interested in accessing it.
+      The Epstein Files are a collection of millions of documents, images, videos, 
+      and emails published by the U.S. Department of Justice, detailing the activities 
+      of American financier and convicted sex offender Jeffrey Epstein. While the DOJ makes these materials available on its website, 
+      they are significantly easier to search and navigate in OpenAleph. 
+      We hold the **full collection of approximately 1.4 million documents**; 
+      however, we have chosen not to make this dataset publicly available due 
+      to its sensitive nature and the need to protect victims. Please [get in touch](mailto:hi@dataresearchcenter.org) 
+      if you are interested in accessing it.
     image:
       url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Epstein_Files_Phase_1%2C_Part_C_%E2%80%93_Contact_Book_Redacted.pdf/page1-330px-Epstein_Files_Phase_1%2C_Part_C_%E2%80%93_Contact_Book_Redacted.pdf.jpg
       alt:
