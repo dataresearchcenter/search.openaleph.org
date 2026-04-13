@@ -25,6 +25,36 @@ topics:
     search_terms: []
     collections: []
 
+  - title: 2026 Hungarian Parliamentary Election
+    description: >-
+      The 2026 Hungarian parliamentary election took place on 12 April 2026.
+      Péter Magyar's Tisza Party won a landslide victory with 52.79% of the
+      vote (138 seats), defeating Viktor Orbán's Fidesz–KDNP (38.75%, 55
+      seats) and ending Orbán's 16-year rule. Turnout reached 79.56%, the
+      highest since 2002. Research the candidates and their networks in
+      OpenAleph.
+    image:
+      url: https://assets.ftm.store/api/img/Q124488292
+      alt:
+        - text: "Péter Magyar, Tisza Party"
+          language: en
+      attribution:
+        license: CC BY 4.0
+        license_url: https://creativecommons.org/licenses/by/4.0/
+        author: European Parliament
+        source: Wikimedia Commons
+        source_url: https://commons.wikimedia.org/wiki/File:P%C3%A9ter_Magyar_MEP_(2024).jpg
+    countries:
+      - hu
+    search_terms:
+      - Péter Magyar
+      - Viktor Orbán
+      - László Toroczkai
+      - Fidesz
+      - TISZA
+      - Mi Hazánk
+    collections: []
+
   - title: Iran War
     description: >-
       On 28 February 2026, Israel and the United States launched joint airstrikes on Iran,
